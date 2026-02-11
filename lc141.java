@@ -1,4 +1,4 @@
-import java.util.*;
+~import java.util.*;
 
 public class lc141 {
     public boolean hasCycle(ListNode head) {

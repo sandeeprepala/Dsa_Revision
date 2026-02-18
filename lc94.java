@@ -1,4 +1,4 @@
-public class lc199 {
+public class lc94 {
     public List<Integer> inorderTraversal(TreeNode root) {
         List<Integer> list = new ArrayList<>();
         helper(root,list);
